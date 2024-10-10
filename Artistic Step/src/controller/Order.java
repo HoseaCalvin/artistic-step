@@ -93,9 +93,6 @@ public class Order {
 		moneyData.clear();
 		quantityData.getValueFactory().setValue(1);
 		
-		// Refreshes 'userTable'.
-		UserTableUI.userTable.getItems().clear();
-		UserTableUI.userTable = UserTableUI.createUserTable();
 	}
 	
 	private boolean isMoneyValid(TextField moneyData) {
