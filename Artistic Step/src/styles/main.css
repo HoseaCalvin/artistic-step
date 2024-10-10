@@ -1,0 +1,23 @@
+#mainButton {
+	-fx-background-color: #db4b60;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+#mainButton:hover {
+	-fx-background-color: #bd4254;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+#mainLayout {
+	-fx-background-color: linear-gradient(to bottom, white, #97cffc);
+}
+
+#title {
+	-fx-text-fill: black;
+	-fx-font-size: 30;
+	-fx-font-weight: bold;
+}

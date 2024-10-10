@@ -1,0 +1,44 @@
+/* Top Pane Header */
+#header {
+	-fx-padding: 20, 5, 20, 20px;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 24;
+	-fx-font-weight: bold;
+}
+
+#leftPane {
+	-fx-background-color: #a63344;
+}
+
+#topPane {
+	-fx-background-color: #416582;
+}
+
+/* Left Pane */
+.button {
+	-fx-background-color: #a63344;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 14;
+	-fx-font-weight: bold;
+}
+
+.button:hover {
+	-fx-background-color: #6b202b;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 14;
+	-fx-font-weight: bold;
+}
+
+#menuButtonIndicator {
+	-fx-background-color: #822734;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 14;
+	-fx-font-weight: bold;
+}
+
+#menuButtonIndicator:hover {
+	-fx-background-color: #6b202b;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 14;
+	-fx-font-weight: bold;
+}
