@@ -1,9 +1,6 @@
 # Artistic Step
 This is a shoe store application written in Java that uses JavaFX framework and XAMPP MySQL Database Engine.
 
-## Disclaimer
-The shoes picture displayed on the bottom right pane is randomized, not retrieved from the actual database.
-
 ## Prerequisite
 1. Please install XAMPP first to be able to run the database engine.
 2. Create a database named "artistic_step".
