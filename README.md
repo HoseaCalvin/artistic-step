@@ -14,5 +14,10 @@ This is a shoes store application written in Java that uses JavaFX framework and
 6. Finally, ensure XAMPP is online during the use of the application.
 
 ## Images
+![image](https://github.com/user-attachments/assets/51901233-f75a-4331-9761-e9fbc55fb290)
+![image](https://github.com/user-attachments/assets/0fff1ecf-e766-4c31-872c-3d8075afbd41)
+![image](https://github.com/user-attachments/assets/fb3082d4-94b5-4445-addd-8c466ce89409)
+![image](https://github.com/user-attachments/assets/94a431a3-dd32-421b-835d-f9bcb88aa4ae)
+![image](https://github.com/user-attachments/assets/172acd62-59f4-4296-99c9-dd9792d809e6)
 
 
