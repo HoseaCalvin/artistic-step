@@ -90,7 +90,7 @@ public class CheckoutController {
 		int moneySpent = Integer.parseInt(money.getText());
 		int totalPrice = Integer.parseInt(total.getText());
 		
-		if(moneySpent > totalPrice) {
+		if(moneySpent >= totalPrice) {
 			return true;
 		} else {
 			return false;
