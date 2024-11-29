@@ -1,0 +1,47 @@
+/* Layout Managers */
+#mainLayout {
+	-fx-background-color: linear-gradient(to bottom, white, #97cffc);
+}
+
+#loginLayout {
+	-fx-alignment: center;
+}
+
+/* Components */
+.button {
+	-fx-background-color: #db4b60;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+	-fx-pref-width: 300px;
+	-fx-pref-height: 50px;
+}
+
+.button:hover {
+	-fx-background-color: #bd4254;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+.text-field {
+	-fx-max-width: 250px;
+	-fx-max-height: 50px;
+	-fx-accent: #416582, white;
+	-fx-background-color: white;
+	-fx-background-insets: 0;
+	-fx-background-radius: 0;
+	-fx-border-color: transparent transparent #b5b5b5 transparent;
+	-fx-font-size: 15px;
+}
+
+.text-field:focused {
+	-fx-background-color: white;
+	-fx-font-weight: bold;
+}
+
+#title {
+	-fx-text-fill: black;
+	-fx-font-size: 30;
+	-fx-font-weight: bold;
+}

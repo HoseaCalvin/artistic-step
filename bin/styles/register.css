@@ -1,0 +1,126 @@
+/* Layout Managers */
+#mainLayout {
+	-fx-background-color: linear-gradient(to bottom, white, #97cffc);
+}
+
+#formLayout {
+	-fx-vgap: 10px;
+	-fx-hgap: 10px;
+	-fx-alignment: center;
+}
+
+#headerLayout {
+	-fx-alignment: center;
+}
+
+/* Components */
+.label {
+	-fx-font-size: 14px;
+}
+
+.button {
+	-fx-background-color: #db4b60;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+	-fx-pref-width: 220px;
+	-fx-pref-height: 35px;
+}
+
+.button:hover {
+	-fx-background-color: #bd4254;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+.text-field {
+	-fx-max-width: 250px;
+	-fx-max-height: 50px;
+	-fx-accent: #416582, white;
+	-fx-background-color: white;
+	-fx-background-insets: 0;
+	-fx-background-radius: 0;
+	-fx-border-color: transparent transparent #b5b5b5 transparent;
+	-fx-font-size: 12px;
+}
+
+.text-field:focused {
+	-fx-background-color: white;
+	-fx-font-weight: bold;
+}
+
+.date-picker .text-field {
+	-fx-border-color: #b5b5b5;
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: white;
+}
+
+.date-picker .arrow-button:hover {
+    -fx-background-color: #4B6EAF;
+}
+
+.date-picker .arrow-button:hover .arrow {
+	-fx-background-color: white;
+}
+
+.date-picker .selected {
+	-fx-background-color: #db4b60;
+}
+
+.date-picker .button {
+	-fx-background-color: #4B6EAF;
+	-fx-pref-width: 60px;
+	-fx-pref-height: 10px;
+	-fx-border-radius: 10px;
+}
+
+.date-picker .button:hover {
+	-fx-background-color: #43629c;
+}
+
+.date-picker .cell:hover {
+	-fx-background-color: #db4b60;
+	-fx-text-fill: white;
+}
+
+.date-picker-popup .spinner .button .left-arrow,
+.date-picker-popup .spinner .button .right-arrow {
+	-fx-background-color: white;
+}
+
+.date-picker-popup {
+	-fx-border-color: #4B6EAF;
+}
+
+.date-picker-popup .month-year-pane {
+	-fx-background-color: #4B6EAF;
+}
+
+.date-picker-popup .month-year-pane .label {
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+
+.radio-button {
+	-fx-padding: 10px 1px;
+}
+
+.radio-button .radio {
+	-fx-background-color: white;
+	-fx-border-color: #b5b5b5;
+	-fx-border-radius: 50%;
+	-fx-padding: 3px;
+}
+
+.radio-button:hover {
+	-fx-font-weight: bold;
+}
+
+#title {
+	-fx-text-fill: black;
+	-fx-font-size: 27px;
+	-fx-font-weight: bold;
+}
