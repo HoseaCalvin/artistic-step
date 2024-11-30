@@ -1,13 +1,13 @@
 # Artistic Step
 A desktop application where user can purchase various shoes from popular brands. This application is written in Java, built with JavaFX, and applied with MVC architecture. It leverages MySQL database via XAMPP Control Panel.
 
----
+
 ## How to setup
 1. Please download XAMPP Control Panel.
 2. Execute the .sql file in 'external' folder.
 3. While using the application, do not forget to start "Apache" and "MySQL" on the Control Panel.
 
----
+
 ## Gallery
 ![image](https://github.com/user-attachments/assets/779a944a-7484-4e46-ae98-9080ff75aaba)
 ![image](https://github.com/user-attachments/assets/84d96fdc-8c97-41f5-861f-fb96c8200de9)
