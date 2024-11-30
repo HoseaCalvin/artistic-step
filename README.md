@@ -5,7 +5,10 @@ A desktop application where user can purchase various shoes from popular brands.
 ## How to setup
 1. Please download XAMPP Control Panel.
 2. Execute the .sql file in 'external' folder.
-3. While using the application, do not forget to start "Apache" and "MySQL" on the Control Panel.
+3. To insert an image to database, select 'msshoes' table and choose a file from 'src > images > shoes'.
+![image](https://github.com/user-attachments/assets/5075c2c9-9a0d-40e6-9ea1-26aebe8769cd)
+
+4. While using the application, do not forget to start "Apache" and "MySQL" on the Control Panel.
 
 
 ## Gallery
