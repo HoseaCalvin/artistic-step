@@ -66,7 +66,7 @@ public class RegistrationController {
 			AlertView.getErrorMessage("Invalid Name", "Ensure your name is more than 7 characters long!");
 		} else if(!userEmail.endsWith("@gmail.com")) {
 			AlertView.getErrorMessage("Invalid G-mail", "Ensure it is a Google email (@gmail.com)!");
-		} else if(dateOfBirth.isArmed()) {
+		} else if(dateOfBirth.getValue() == null) {
 			AlertView.getErrorMessage("Empty Date of Birth", "Ensure you have picked your date of birth!");
 		} else if(!(male.isSelected() || female.isSelected())) {
 			AlertView.getErrorMessage("Empty Gender", "Ensure you have picked your gender!");
