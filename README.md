@@ -1,15 +1,16 @@
 # Artistic Step
-A desktop application where user can purchase various shoes from popular brands. This application is written in Java, built with JavaFX, and applied with MVC architecture. It leverages MySQL database via XAMPP Control Panel.
+A desktop application where user can purchase various shoes from popular brands.
+This application is developed using the MVC architecture. 
+Tech stack: Java, JavaFX, MySQL (using XAMPP Control Panel)
 
 
-## How to setup
+## How to import database
 1. Please download XAMPP Control Panel.
 2. Start "Apache" and "MySQL".
 3. Click "MySQL" 'Admin' button.
-4. Go to 'SQL' Section.
-5. Execute the .sql file in 'external' folder.
-6. To insert an image to database, select 'msshoes' table and choose a file from 'src > images > shoes'.
-![image](https://github.com/user-attachments/assets/5075c2c9-9a0d-40e6-9ea1-26aebe8769cd)
+4. Go to "Import" Section.
+5. Choose 'artistic_step.sql' file from "external" folder.
+6. Click the "Import" button.
 
 NOTE:
 - While using the application, do not forget to start "Apache" and "MySQL" on the Control Panel.
