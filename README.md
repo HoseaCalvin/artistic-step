@@ -1,5 +1,6 @@
 # Artistic Step
 A desktop application where user can purchase various shoes from popular brands.
+
 This application is developed using the MVC architecture.
  
 **Tech stack: Java, JavaFX, MySQL (using XAMPP Control Panel)**
