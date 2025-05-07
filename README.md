@@ -5,6 +5,7 @@ This application is developed using the MVC architecture.
  
 **Tech stack: Java, JavaFX, MySQL (using XAMPP Control Panel)**
 
+
 ## Features
 1. Login and Registration: Allows creating and using the account you've created.
 2. Order Shoes: Orders available shoes in the table.
@@ -13,7 +14,8 @@ This application is developed using the MVC architecture.
 5. Checkout Shoes: Pay for every shoe you've ordered.
 6. Transaction History: View all transactions.
 
-## How to import database
+
+## How to Import Database
 1. Please download XAMPP Control Panel.
 2. Start "Apache" and "MySQL".
 3. Click "MySQL" 'Admin' button.
