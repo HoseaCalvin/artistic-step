@@ -5,6 +5,13 @@ This application is developed using the MVC architecture.
  
 **Tech stack: Java, JavaFX, MySQL (using XAMPP Control Panel)**
 
+## Features
+1. Login and Registration: Allows creating and using the account you've created.
+2. Order Shoes: Orders available shoes in the table.
+3. Update Shoes: Updates ONLY shoes color.
+4. Delete Shoes: Shoes can be 'trashed' if they are no longer needed.
+5. Checkout Shoes: Pay for every shoe you've ordered.
+6. Transaction History: View all transactions.
 
 ## How to import database
 1. Please download XAMPP Control Panel.
